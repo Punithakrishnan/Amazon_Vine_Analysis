@@ -60,6 +60,12 @@ Figure 4. Screen shot showing vine table dataframe in pySpark (in Google Colab N
 
 
 
-
-
 <img width="710" alt="Screen Shot 2022-07-21 at 1 54 00 AM" src="https://user-images.githubusercontent.com/98849217/180139724-0af138dd-b564-42b4-a228-ece842ea349f.png">
+
+
+<img width="664" alt="Screen Shot 2022-07-21 at 1 55 12 AM" src="https://user-images.githubusercontent.com/98849217/180140205-2a4f29de-f6c6-445d-807d-38562012e8a8.png">
+
+<img width="669" alt="Screen Shot 2022-07-21 at 1 55 27 AM" src="https://user-images.githubusercontent.com/98849217/180140259-b619a4f7-94bb-4143-91fa-00eb04c7ba5f.png">
+
+
+
